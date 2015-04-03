@@ -22,6 +22,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".PracticalTest01Var05SecondaryActivity"
+            android:label="@string/title_activity_practical_test01_var05_secondary" >
+            <intent-filter>
+                <action android:name="android.intent.action.SUBMIT" />
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>

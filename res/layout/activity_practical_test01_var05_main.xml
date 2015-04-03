@@ -29,7 +29,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="left"
             android:text="West" />
+        
         </ScrollView>
+        
  		<ScrollView
             android:layout_width="0dp"
         	android:layout_height="wrap_content"
